@@ -208,7 +208,9 @@ section > p {
 }
 
 footer {
-    padding: 30px 8%;
+    padding: 10px 12%;
+    display: flex;
+    justify-content: space-between;
     text-align: center;
     background-color: #0B0C14;
     color: #B5B6CC;
